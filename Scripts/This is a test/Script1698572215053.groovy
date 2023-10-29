@@ -17,8 +17,4 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-<<<<<<< HEAD
-print("Hi from local")
-=======
 print("Hi from git")
->>>>>>> branch 'master' of https://github.com/BrianFlores7/nuba_tropicana_testGitIntegration.git
